@@ -7,5 +7,6 @@
 </h3>
 
 ## Current and Future Development 🌱
-- [Programming Basics with Java by SoftUni](https://softuni.bg/)
+- [CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [100 Days of Code; The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
 - [Cloud Essentials Learning Plan by AWS](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-learning-plan)
